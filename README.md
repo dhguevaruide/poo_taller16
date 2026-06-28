@@ -11,7 +11,7 @@ CuentaCuenta/
 
 Una vez realizada la prueba interna banco/cuenta_test.go, modificar a banco/cuenta.go agregando los siguientes métodos:
 
-image0.png
+![Métodos privados agregados](image0.png)
 
 Estos métodos son privados, por lo que también realizaremos las pruebas internar modificando a banco/cuenta_test.go agregando los siguientes métodos de prueba:
 
