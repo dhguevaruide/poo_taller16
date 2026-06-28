@@ -2,11 +2,11 @@ Probar el uso de estructuras internas usando encapsulación
 
 De la presentación en clases tenemos
 
-![Organizacion](image.png)
+![Organizacion](docs/images/image.png)
 
 Una vez realizada la prueba interna banco/cuenta_test.go, modificar a banco/cuenta.go agregando los siguientes métodos:
 
-![Métodos privados agregados](image0.png)
+![Métodos privados agregados](docs/images/image0.png)
 
 Estos métodos son privados, por lo que también realizaremos las pruebas internar modificando a banco/cuenta_test.go agregando los siguientes métodos de prueba:
 
