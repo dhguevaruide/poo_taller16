@@ -1,4 +1,5 @@
 # ENCAPSULACIÓN
+
 Probar el uso de estructuras internas usando encapsulación
 
 De la presentación en clases tenemos
